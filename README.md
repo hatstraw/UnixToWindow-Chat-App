@@ -12,3 +12,6 @@ The project files include two files which is :
 Both the script need to be run in the respectice devices in order to use this application.
 
 # Screenshot
+![alt text][screenshot]
+
+[screenshot]: https://github.com/hatstraw/UnixToWindow-Chat-App/blob/main/screenshot.png "Usage of the Chat App"
